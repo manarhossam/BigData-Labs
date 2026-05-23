@@ -5,6 +5,7 @@ This repository contains my hands-on labs completed during the **NTI Big Data Sc
 It focuses on practicing Hadoop ecosystem tools and applying real-world Big Data concepts in a distributed environment.
 
 
+
 ## 🚀 Covered Technologies
 
 - Hadoop Ecosystem (HDFS, MapReduce)
